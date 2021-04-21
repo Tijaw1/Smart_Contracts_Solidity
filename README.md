@@ -187,5 +187,5 @@ Using the starter code, perform the following:
   
   #### Test the contract
   ![DeferredEquityPlan](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/DefferedEquity1.PNG)
-  ![DeferredEquityPlan](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/deffered1.PNG)
+  ![DeferredEquityPlan](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/deferred1.PNG)
   
