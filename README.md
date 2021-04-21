@@ -183,6 +183,9 @@ Using the starter code, perform the following:
         fakenow += 100 days;
     }
     ```
-
   * Once you are satisfied with your contract's logic, revert the `fakenow` testing logic.
+  
+  #### Test the contract
+  ![DeferredEquityPlan](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/DefferedEquity1.PNG)
+  ![DeferredEquityPlan](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/deffered1.PNG)
   
