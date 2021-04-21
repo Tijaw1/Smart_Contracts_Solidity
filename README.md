@@ -191,7 +191,9 @@ Using the starter code, perform the following:
 
 ###### Contract addresses
 DeferredEquityPlan-Contract: 0x0ead61E37eD5e71D094A1127c9F79fa009746b42
+
 TieredProfitSplitter-contract: 0x23E6C9b9295A901C5357f1d7cd8B2c2c4bd375fb
+
 AssociateProfitSplitter-contract: 0x2455494BAFcf7f9213e0459b024ec324e330c2Bd
 
   
