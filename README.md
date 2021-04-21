@@ -2,7 +2,7 @@
 
 # "Looks like we've made our First Contract!"
 
-![contract](Images/smart-contract.png)
+![contract](https://camo.githubusercontent.com/5a761721f54f4ce9ca449875f486433faef2e95a1ef91ec2ef24002d268a0c01/68747470733a2f2f696d6167652e7368757474657273746f636b2e636f6d2f7a2f73746f636b2d70686f746f2d74776f2d68616e64732d68616e647368616b652d706f6c79676f6e616c2d6c6f772d706f6c792d6875642d696c6c757374726174696f6e2d736d6172742d636f6e74726163742d61677265656d656e742d626c6f636b636861696e2d616e642d313136313239353632372e6a7067)
 
 ## Background
 
@@ -78,10 +78,11 @@ Next, create the following functions:
 * Create a fallback function using `function() external payable`, and call the `deposit` function from within it. This will ensure that the logic in `deposit` executes if Ether is sent directly to the contract. This is important to prevent Ether from being locked in the contract since we don't have a `withdraw` function in this use-case.
 
 #### Test the contract
-
-
-
-![Remix Testing](Images/remix-test.png)
+![AssociateProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Profitsplitter1.PNG)
+![AssociateProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Profitsplitter2.PNG)
+![AssociateProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Profitsplitter3.PNG)
+![AssociateProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Profitsplitter4.PNG)
+![AssociateProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Profitsplitter5.PNG)
 
 ### Level Two: The `TieredProfitSplitter` Contract
 
