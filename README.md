@@ -123,7 +123,10 @@ Using the starter code, within the `deposit` function, perform the following:
   * Note: The 100 wei threshold is due to the way we calculate the points. If we send less than 100 wei, for example, 80 wei, `points` would equal `0` because `80 / 100` equals `0` because the remainder is discarded. We will learn more advanced arbitrary precision division later in the course. In this case, we can disregard the threshold as 100 wei is a significantly smaller value than the Ether or Gwei units that are far more commonly used in the real world (most people aren't sending less than a penny's worth of Ether).
 
   #### Test the contract
-
+  ![TieredProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Tieredprofitsplit1.PNG)
+  ![TieredProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Tieredprofitsplit2.PNG)
+  ![TieredProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Tieredprofitsplit3.PNG)
+  ![TieredProfitSplitter](https://github.com/Tijaw1/Smart_Contracts_Solidity/blob/main/Screenshots/Tieredprofitsplit4.PNG)
 
 ### Level Three: The `DeferredEquityPlan` Contract
 
